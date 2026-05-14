@@ -1,0 +1,18 @@
+2026-05-14 13:48:59,746 - INFO - Transform started
+2026-05-14 13:48:59,962 - INFO - Transformed 85373 rows
+2026-05-14 13:49:00,389 - INFO - Parquet file saved successfully
+2026-05-14 14:05:09,040 - INFO - Pipeline execution started
+2026-05-14 14:05:10,800 - INFO - Transform started
+2026-05-14 14:05:11,050 - INFO - Transformed 85377 rows
+2026-05-14 14:05:11,234 - INFO - Saved clean data to data/processed/airports_clean.parquet
+2026-05-14 14:05:11,564 - INFO - Loaded 85377 rows into metadata/airports.db:airports
+2026-05-14 14:05:11,565 - INFO - Pipeline execution completed
+2026-05-14 14:52:01,531 - INFO - Scheduler started with interval 24 hour(s)
+2026-05-14 14:52:01,531 - INFO - Scheduled pipeline run started
+2026-05-14 14:52:01,532 - INFO - Pipeline execution started
+2026-05-14 14:52:04,491 - INFO - Transform started
+2026-05-14 14:52:04,916 - INFO - Transformed 85377 rows
+2026-05-14 14:52:05,235 - INFO - Saved clean data to data/processed/airports_clean.parquet
+2026-05-14 14:52:05,818 - INFO - Loaded 85377 rows into metadata/airports.db:airports
+2026-05-14 14:52:05,824 - INFO - Pipeline execution completed
+2026-05-14 14:52:05,847 - INFO - Scheduled pipeline run finished
