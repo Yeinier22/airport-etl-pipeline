@@ -4,11 +4,11 @@ Automated ETL pipeline built with Python to extract, clean, transform, and load 
 
 ## Architecture
 
-![Architecture](pipeline-diagram.png)
+![Architecture](images/Airport ETL Pipeline.png)
 
 ## Power BI Dashboard
 
-![Dashboard](airport-dashboard.png)
+![Dashboard](images/PowerBI.png)
 
 ## Highlights
 
