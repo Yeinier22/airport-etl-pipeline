@@ -1,4 +1,35 @@
-# airport-etl-pipeline
+# Airport ETL Pipeline
+
+Automated ETL pipeline built with Python to extract, clean, transform, and load airport data into SQLite and Parquet storage.
+
+## Architecture
+
+![Architecture](pipeline-diagram.png)
+
+## Power BI Dashboard
+
+![Dashboard](airport-dashboard.png)
+
+## Highlights
+
+- Built an end-to-end ETL pipeline with Python
+- Processed 85,000+ airport records
+- Exported optimized Parquet datasets
+- Loaded structured data into SQLite
+- Added logging and error handling
+- Containerized with Docker
+- Automated execution with GitHub Actions
+
+## Technologies
+
+- Python
+- Pandas
+- SQLite
+- Parquet
+- Docker
+- GitHub Actions
+
+## Run the pipeline once
 
 ## Run the pipeline once
 
