@@ -2,6 +2,12 @@
 
 Automated ETL pipeline built with Python to extract, clean, transform, and load airport data into Parquet storage.
 
+## Project Overview
+
+This project demonstrates a complete ETL workflow for airport data.
+
+The pipeline extracts raw airport data, applies cleaning and transformation rules, exports optimized Parquet datasets, and supports automated execution through GitHub Actions. The resulting dataset is used for reporting and visualization in Power BI.
+
 ## Architecture
 
 ![Architecture](images/pipeline-diagram.png)
@@ -14,11 +20,12 @@ Automated ETL pipeline built with Python to extract, clean, transform, and load 
 
 - Built an end-to-end ETL pipeline with Python
 - Processed 85,000+ airport records
+- Applied data cleaning and transformation rules
 - Exported optimized Parquet datasets
-- Loaded structured data into SQLite
 - Added logging and error handling
 - Containerized with Docker
 - Automated execution with GitHub Actions
+- Published an interactive Power BI dashboard
 
 ## Technologies
 
@@ -27,8 +34,6 @@ Automated ETL pipeline built with Python to extract, clean, transform, and load 
 - Parquet
 - Docker
 - GitHub Actions
-
-## Run the pipeline once
 
 ## Run the pipeline once
 
