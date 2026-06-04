@@ -1,6 +1,6 @@
 # Airport ETL Pipeline
 
-Automated ETL pipeline built with Python to extract, clean, transform, and load airport data into SQLite and Parquet storage.
+Automated ETL pipeline built with Python to extract, clean, transform, and load airport data into Parquet storage.
 
 ## Architecture
 
@@ -24,7 +24,6 @@ Automated ETL pipeline built with Python to extract, clean, transform, and load 
 
 - Python
 - Pandas
-- SQLite
 - Parquet
 - Docker
 - GitHub Actions
