@@ -8,6 +8,10 @@ This project demonstrates a complete ETL workflow for airport data.
 
 The pipeline extracts raw airport data, applies cleaning and transformation rules, exports optimized Parquet datasets, and supports automated execution through GitHub Actions. The resulting dataset is used for reporting and visualization in Power BI.
 
+## Live Dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiNDViZTEwYWYtZDRjZS00YjQyLTk4NWUtMmUzYjExNzhlNDIwIiwidCI6IjA1MjEzYjk4LTdiNzAtNDNlOS05YjVmLWVkYmMzODhmNjRkMCJ9
+
 ## Architecture
 
 ![Architecture](images/pipeline-diagram.png)
