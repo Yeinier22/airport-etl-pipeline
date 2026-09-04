@@ -14,7 +14,7 @@ The resulting dataset is used for reporting and visualization in Power BI.
 
 ## Live Dashboard
 
-https://app.powerbi.com/view?r=eyJrIjoiYjdjY2Y1NzEtOWJiZC00YTZhLWJhNGUtYWI0ZWY4N2U0Y2EzIiwidCI6IjA1MjEzYjk4LTdiNzAtNDNlOS05YjVmLWVkYmMzODhmNjRkMCJ9
+https://app.fabric.microsoft.com/view?r=eyJrIjoiMjZiZjMyNTEtZTE2ZC00NTcyLThlNjYtYmZkYjBkNDhjM2FhIiwidCI6IjA1MjEzYjk4LTdiNzAtNDNlOS05YjVmLWVkYmMzODhmNjRkMCJ9
 
 ## Architecture
 
@@ -22,7 +22,7 @@ https://app.powerbi.com/view?r=eyJrIjoiYjdjY2Y1NzEtOWJiZC00YTZhLWJhNGUtYWI0ZWY4N
 
 ## Power BI Dashboard
 
-![Dashboard](images/PowerBI.jpg)
+![Dashboard](images/Dashboard.jpg)
 
 ## Highlights
 
