@@ -16,9 +16,13 @@ The resulting dataset is used for reporting and visualization in Power BI.
 
 https://app.fabric.microsoft.com/view?r=eyJrIjoiMjZiZjMyNTEtZTE2ZC00NTcyLThlNjYtYmZkYjBkNDhjM2FhIiwidCI6IjA1MjEzYjk4LTdiNzAtNDNlOS05YjVmLWVkYmMzODhmNjRkMCJ9
 
-## Architecture
+## Fabric lineage
 
-![Architecture](images/pipeline-diagram.png)
+![Fabric](images/fabric-lineage.jpg)
+
+## Fabric medallion
+
+![Fabric-medallion](images/fabric-lakehouse-medallion.jpg)
 
 ## Power BI Dashboard
 
